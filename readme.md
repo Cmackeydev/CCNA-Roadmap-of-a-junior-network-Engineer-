@@ -21,3 +21,12 @@ I want to pass my exam in February 2025. This lets me about two months to prepar
     1. Preparing the CCNA v1.1 exams
     2. Learning as much as possible as an Network engineer
     3. Doing it in a 2 months due date
+
+## Ressources used
+
+Here is a list of the ressources i am using for my preparations.
+
+    1. CCNA 200-301 Official Cert Guide Volume 1 and 2 (2020 version)
+    2. [Jeremy's IT LAB](https://youtu.be/H8W9oMNSuwo?si=wC_gCLNB39r9dfg3) CCNA Preparation Playlist.
+    3. Cisco Packet Tracer
+    4. The [Boson](https://boson.com) Package for CCNA preparation which includes the Network Simulator / the course and the exams.
