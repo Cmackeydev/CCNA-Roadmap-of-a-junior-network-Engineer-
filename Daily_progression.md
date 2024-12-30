@@ -16,6 +16,15 @@ So i used vbr0 i checked on my computer the subnet of the bridge ,  i configure 
 I was then able to ping 8.8.8.8 (dns server of google). But it wasn't fully functionnal due to dns issues so as set the dns server of my router as my vps as 8.8.8.8. And Voila everything was *functionnal* (at leat for now). I'll try to finish the (DHCP+DNS) server later.
 
 So i completed the lab. I tried to use bind9 as my dns software , but configuration started to be tricky real fast. Finally i opted for a more *plug and play* solution , dnsmask.
-Everything worked properly after configuring the dns-server in the dhcp pool. I will explain more the lab in th section 4.3
+Everything worked properly after configuring the dns-server in the dhcp pool. I will explain more the lab in the section 4.3
 
 Tomorrow i plan to do some ospf labs so i can pursue with the ipv6 part of the books.
+
+## 12/28/2024
+
+So i did the ospf lab , not the greatest topology but i try to put a lot of routers to experiment OSPF.
+
+## 12/29/2024
+
+Today i started to read the ospfv6 parts of the books. I didn't do a lot of readings today , mainly because i was tired yesterday night i went to a party so , i am waiting for tomorrow to try to compensate.
+I am on page 1805/3305 on the first Volume.
