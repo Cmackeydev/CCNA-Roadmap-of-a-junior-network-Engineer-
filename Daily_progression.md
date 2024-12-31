@@ -28,3 +28,10 @@ So i did the ospf lab , not the greatest topology but i try to put a lot of rout
 
 Today i started to read the ospfv6 parts of the books. I didn't do a lot of readings today , mainly because i was tired yesterday night i went to a party so , i am waiting for tomorrow to try to compensate.
 I am on page 1805/3305 on the first Volume.
+
+## 12/30/2024
+
+Today i continue the reading of the books. Im in the ipv6 parts on page 1905 for now. I plan to do some labs in the courseware part of Boson. (I dont know if i will have time to do all the courseware labs because the importants labs ar the boson labs but i will try to do them both). I want to finish the Coureware parts of Boson before finishing the books. So in the end i will concentrate on Boson labs and Labs that i think of as i do them for now , before doing the practice exams of Boson.
+
+I did one lab of the CCNA courseware. I am now in lab 2.1 ..
+
