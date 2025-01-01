@@ -35,3 +35,9 @@ Today i continue the reading of the books. Im in the ipv6 parts on page 1905 for
 
 I did one lab of the CCNA courseware. I am now in lab 2.1 ..
 
+## 12/31/2024
+
+Today i continue the IPV6 parts of the book. Im on page 2020 for now.
+I plan to do some Boson Courseware lab later in the evening. 
+
+I did the Boson courseware lab , and i weird and lucky as i was it was a lab on IPV6 . Loll it was really easy. Tomorrow is the new year but i think i will continue study. I' ll try to stay as consistent as possible
