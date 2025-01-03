@@ -38,6 +38,15 @@ I did one lab of the CCNA courseware. I am now in lab 2.1 ..
 ## 12/31/2024
 
 Today i continue the IPV6 parts of the book. Im on page 2020 for now.
-I plan to do some Boson Courseware lab later in the evening. 
+I plan to do some Boson Courseware lab later in the evening.
 
 I did the Boson courseware lab , and i weird and lucky as i was it was a lab on IPV6 . Loll it was really easy. Tomorrow is the new year but i think i will continue study. I' ll try to stay as consistent as possible
+
+## 1/1/2025
+
+Today was the first day of the year , hopefully for my social life i did nothing on the study today. I was hanging out. I plan to restart tomorrow with some ipv6 labs on my own.
+
+## 1/2/2025
+
+So Today  i did a personnal lab of IPV6 on my own nothing to fancy. I also completed the Module 2 of the Boson vcourseware lab so. I guess we are moving forward.
+

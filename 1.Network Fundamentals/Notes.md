@@ -10,3 +10,8 @@ Ipv6 got quite some subtilities. Like Link local Adresses doesnt get added on th
 we have to specify the interface. So this is some of the nuances that i learned for now. I should do some meticulous lab using Ipv6 to learn more.
 
 I did a lab on Boson classeware and it's was pretty straightforward , configuring link local adresses manually on interfaces nothing much fancy.
+
+I did a lab on my own of IPV6 today. A simple totpology 3 routers. I configured Unique Local adress on the Lan and i used on Global unicast Adress for a server. 
+I used static routing. I will put the tpology under `Topology/IPV6_lab_1`. I learned that today when you are configuring routes with IPV6 if you are using link local adresses as next hop you should always indicate the interface and also that you cannot just indicate an interface on his own. I spent 30 minutes before understanding the issue in my topology.
+
+I alo did the lab of the CourseWare. But i got some difficulties removing a route mistakenly added in the configuration the `no ipv6 route ...` doesnt seems to remove it dont know why ...
