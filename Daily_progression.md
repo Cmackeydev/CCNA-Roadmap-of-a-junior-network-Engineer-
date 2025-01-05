@@ -50,3 +50,15 @@ Today was the first day of the year , hopefully for my social life i did nothing
 
 So Today  i did a personnal lab of IPV6 on my own nothing to fancy. I also completed the Module 2 of the Boson vcourseware lab so. I guess we are moving forward.
 
+## 1/3/2025
+
+Today i did reading. i am on page 2700 now. Yes you heard it 2700. What happened is that in the end on the bok there is a bunch of glossaries and appendix so i skiped them 
+a lot there are also some exercice i did some , some i will get back to them later.
+
+## 1/4/2025
+
+Today i finished the first volumes. In the rest of paes there was about 3 legacy chapters that i read , one was about troubleshooting LAN another was about VLSM and the 
+third one was kind of a mix. So i finished the first volume today.  I will try to do a lab and the Boson Coureware , i dont know if i will have time later.
+
+I did the first lab in the module 5. There is no lab for module 3 and 4 and the Boson CourseWare.
+
