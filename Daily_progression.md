@@ -62,3 +62,8 @@ third one was kind of a mix. So i finished the first volume today.  I will try t
 
 I did the first lab in the module 5. There is no lab for module 3 and 4 and the Boson CourseWare.
 
+## 1/5/2025
+
+Today i didnt do much work. I did a lab on Boson Courseware. It was not a difficult one. The only unusual thing i did was to configure the clock on a Serial interfaces.
+And i also routed networks with eigrp (was not so different then our almighty ospf) pretty straightforward. Tomorrow i plan to start reading on the Volume 2 of the book.
+
