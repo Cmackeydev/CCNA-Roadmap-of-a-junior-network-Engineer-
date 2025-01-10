@@ -52,12 +52,12 @@ So Today  i did a personnal lab of IPV6 on my own nothing to fancy. I also compl
 
 ## 1/3/2025
 
-Today i did reading. i am on page 2700 now. Yes you heard it 2700. What happened is that in the end on the bok there is a bunch of glossaries and appendix so i skiped them 
+Today i did reading. i am on page 2700 now. Yes you heard it 2700. What happened is that in the end on the bok there is a bunch of glossaries and appendix so i skiped them
 a lot there are also some exercice i did some , some i will get back to them later.
 
 ## 1/4/2025
 
-Today i finished the first volumes. In the rest of paes there was about 3 legacy chapters that i read , one was about troubleshooting LAN another was about VLSM and the 
+Today i finished the first volumes. In the rest of paes there was about 3 legacy chapters that i read , one was about troubleshooting LAN another was about VLSM and the
 third one was kind of a mix. So i finished the first volume today.  I will try to do a lab and the Boson Coureware , i dont know if i will have time later.
 
 I did the first lab in the module 5. There is no lab for module 3 and 4 and the Boson CourseWare.
@@ -79,3 +79,8 @@ Laziness ... Page 205
 
 I will do some reading today , i will also try to do a Boson CourseWare Lab later. we will see if i make it through. It's almost 5 Pm an i didnt do anythong yet for today.
 I did the lab from BosonCourse Ware but did not really read anything aboutpages 220.Yes i know ... i' ll try to get my speed back in the week end.
+
+## 1/9/2025
+
+Today i read about .... 20 pages loll , but hey i did two CourseWare labs so i think its was not so bad at all.. The thing it's alo i in the Wifi part i dont really like
+the materials in there but hey i have to study them ...
