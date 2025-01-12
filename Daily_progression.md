@@ -84,3 +84,11 @@ I did the lab from BosonCourse Ware but did not really read anything aboutpages 
 
 Today i read about .... 20 pages loll , but hey i did two CourseWare labs so i think its was not so bad at all.. The thing it's alo i in the Wifi part i dont really like
 the materials in there but hey i have to study them ...
+
+## 1/10/2025
+
+Today i read , im on page 270.
+
+## 1/11/2025
+
+I am taking a break today. Probaly tomorrow also i have another work to do so ...
