@@ -92,3 +92,7 @@ Today i read , im on page 270.
 ## 1/11/2025
 
 I am taking a break today. Probaly tomorrow also i have another work to do so ...
+
+## 1/12/2025
+
+Break ...
