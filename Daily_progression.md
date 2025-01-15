@@ -96,3 +96,12 @@ I am taking a break today. Probaly tomorrow also i have another work to do so ..
 ## 1/12/2025
 
 Break ...
+
+## 1/13/2025
+
+I read through page 300 today .
+
+## 1/14/2025
+
+Im starting tthis to  get he rythm back today i read through pages 340 and did 5 labs in the Courseware.
+I am done with module 6 module 7 is about IP services (NAT/ACL) , this is really great because toorrow i' ll start with chapter related to ACL on the books so .
