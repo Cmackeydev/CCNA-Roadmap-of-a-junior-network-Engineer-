@@ -105,3 +105,10 @@ I read through page 300 today .
 
 Im starting tthis to  get he rythm back today i read through pages 340 and did 5 labs in the Courseware.
 I am done with module 6 module 7 is about IP services (NAT/ACL) , this is really great because toorrow i' ll start with chapter related to ACL on the books so .
+It seems to me like some of the Boson labs got some little problems in the final expected configurations , i wil tr to nvestiguate  more on this later.
+
+## 1/15/2025
+
+I am in page 412 now. The next Chapter is about basics in ACL i will try to read it tonight. I dont know. 
+
+I read the othe chapter i am in page 475 now.
