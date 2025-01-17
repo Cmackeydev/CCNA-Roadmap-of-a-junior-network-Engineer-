@@ -109,6 +109,11 @@ It seems to me like some of the Boson labs got some little problems in the final
 
 ## 1/15/2025
 
-I am in page 412 now. The next Chapter is about basics in ACL i will try to read it tonight. I dont know. 
+I am in page 412 now. The next Chapter is about basics in ACL i will try to read it tonight. I dont know.
 
 I read the othe chapter i am in page 475 now.
+
+## 1/16/2025
+
+I am on page 550 now. I have read a lot about ACL. I think i am much more confident with ACL now. i will try to do a customized labs on gns3 later.
+So i dis the lab it was great now i am really confident with ACL but not only ACL but also with my level as a CCNA aspirant.
