@@ -124,5 +124,10 @@ I am on page 615 now. The next chapters are about security.I would like to finis
 I will try to do some Labs of the Courseware later , there is about 4 or 5 labs i would like to do them all today but  i will probably finish them tomorrow. Correction i will do the Module 8 lab first.
 I did on lab.
 
+## 1/18/2025
+
+I did all the rest of the labs of module 8 for the Boson CourseWare today.  i am left with two modules to finsh with the Boson CourseWare. I think i will finish them soon.
+I'll try to read one chapter of the books later. I think that things are going as planned.For now distraction time , i will watch a tv series.
+
 
 
