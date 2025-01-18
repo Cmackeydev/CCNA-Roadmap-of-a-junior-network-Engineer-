@@ -117,3 +117,12 @@ I read the othe chapter i am in page 475 now.
 
 I am on page 550 now. I have read a lot about ACL. I think i am much more confident with ACL now. i will try to do a customized labs on gns3 later.
 So i dis the lab it was great now i am really confident with ACL but not only ACL but also with my level as a CCNA aspirant.
+
+## 1/17/2025
+
+I am on page 615 now. The next chapters are about security.I would like to finish with the boson Module COurseWare of Ip Services first before continuing the readings.
+I will try to do some Labs of the Courseware later , there is about 4 or 5 labs i would like to do them all today but  i will probably finish them tomorrow. Correction i will do the Module 8 lab first.
+I did on lab.
+
+
+
