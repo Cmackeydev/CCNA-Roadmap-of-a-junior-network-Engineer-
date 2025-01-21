@@ -129,5 +129,11 @@ I did on lab.
 I did all the rest of the labs of module 8 for the Boson CourseWare today.  i am left with two modules to finsh with the Boson CourseWare. I think i will finish them soon.
 I'll try to read one chapter of the books later. I think that things are going as planned.For now distraction time , i will watch a tv series.
 
+## 1/19/2025
 
+I read through pages 674 today.
 
+## 1/20/2025
+
+I read another chapter im in pages 735. It was more of a theorical chapter the little amount of practical thing i learned i will apply them in final labs.
+I wanna read another chapter tonight i will see if i can make it.
