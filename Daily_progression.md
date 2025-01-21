@@ -137,3 +137,4 @@ I read through pages 674 today.
 
 I read another chapter im in pages 735. It was more of a theorical chapter the little amount of practical thing i learned i will apply them in final labs.
 I wanna read another chapter tonight i will see if i can make it.
+I read another chapter i am in page 780 now.
