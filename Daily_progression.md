@@ -138,3 +138,13 @@ I read through pages 674 today.
 I read another chapter im in pages 735. It was more of a theorical chapter the little amount of practical thing i learned i will apply them in final labs.
 I wanna read another chapter tonight i will see if i can make it.
 I read another chapter i am in page 780 now.
+
+## 1/21/2025
+
+I finished the chapters about securing a Lan today. I am on page 860 now. I started reading the first chapter about ip services.
+
+## 1/22/2025
+
+The goal for today would be  like to be reach the 1000<sup>th</sup> by the end of the day.
+
+I read two more chapters i am at pages 1015 now. The last chapter i read was about Nat configurations. I would like to do a customized lab about Nat later , but i dont know . i' ll see if i will have time. The goal will be to finished the second book by the end of January so i can focus on Labs and Boson Labs and after to take the Boson Exams.
