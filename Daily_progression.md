@@ -148,3 +148,5 @@ I finished the chapters about securing a Lan today. I am on page 860 now. I star
 The goal for today would be  like to be reach the 1000<sup>th</sup> by the end of the day.
 
 I read two more chapters i am at pages 1015 now. The last chapter i read was about Nat configurations. I would like to do a customized lab about Nat later , but i dont know . i' ll see if i will have time. The goal will be to finished the second book by the end of January so i can focus on Labs and Boson Labs and after to take the Boson Exams.
+
+I was exhausted when i got at home. I did not do the lab , i will try to to them tomorrow.
