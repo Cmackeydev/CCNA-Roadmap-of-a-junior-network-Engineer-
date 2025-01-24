@@ -150,3 +150,9 @@ The goal for today would be  like to be reach the 1000<sup>th</sup> by the end o
 I read two more chapters i am at pages 1015 now. The last chapter i read was about Nat configurations. I would like to do a customized lab about Nat later , but i dont know . i' ll see if i will have time. The goal will be to finished the second book by the end of January so i can focus on Labs and Boson Labs and after to take the Boson Exams.
 
 I was exhausted when i got at home. I did not do the lab , i will try to to them tomorrow.
+
+## 1/23/2025
+
+SO i did the lab. I hope to read at least 50 pages later  , 100 pages would be great , so ill try to get to it.
+
+I am on page 1104 now. I just finished with te chapter about QoS. Nexy chapter is abut FHRP  i hope to finish it tomorrow and do a customized labs about it.

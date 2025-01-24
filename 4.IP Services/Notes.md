@@ -1,5 +1,10 @@
 # 4.IP Services
 
+## 4.1 NAT
+
+I did a lab to configure NAT.I use a imple Topology really simple not even routing protocols was used. I will put the topology under `Topology/NAT_lab_1.png`.
+I used static Nat then Dynamic Nat then PAT. Try to remember when you have to remove a NAT , you have to first clear the Ip translations.
+
 ## 4.3 DNS / DHCP
 
 I did a lab to review the DNS protocols as the DHCP features. i went simple on this one no vlans / no centralized dhcp server just a centralized dns server.
