@@ -156,3 +156,14 @@ I was exhausted when i got at home. I did not do the lab , i will try to to them
 SO i did the lab. I hope to read at least 50 pages later  , 100 pages would be great , so ill try to get to it.
 
 I am on page 1104 now. I just finished with te chapter about QoS. Nexy chapter is abut FHRP  i hope to finish it tomorrow and do a customized labs about it.
+
+## 1/24/2025
+
+I finished the chapter on FHRP. im on page 1150 now. The actual version of CCNA does not focus on FHRP configuration. But i will still do a simple lab.
+I will use HSRP as the protocol on my simple lab. I ' ll try to quickly finish the lab so i can continue to read hope to get to pages 1200 today. 
+
+I did the lab a simple one as usual.
+
+## 1/25/2025
+
+Did nothing today. tried to read but didnt.
