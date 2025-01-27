@@ -171,3 +171,5 @@ Did nothing today. tried to read but didn't.
 ## 1/26/2025
 
 Today i finish the chapter on snmp and FTP and TFTP. It was really a theorical password. I dont know if i will do a customized lab for it. But i intend to do the Courseware labs in the Ip services modules. before coninuing the lecture. The next chapter are about Automation and programmability.
+
+I did one of the customized labs. 7 more to do.I hope to do them tomorrow.
