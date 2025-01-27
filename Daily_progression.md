@@ -172,4 +172,8 @@ Did nothing today. tried to read but didn't.
 
 Today i finish the chapter on snmp and FTP and TFTP. It was really a theorical password. I dont know if i will do a customized lab for it. But i intend to do the Courseware labs in the Ip services modules. before coninuing the lecture. The next chapter are about Automation and programmability.
 
-I did one of the customized labs. 7 more to do.I hope to do them tomorrow.
+I did one of the customized labs. 9 more to do.I hope to do them tomorrow.
+
+## 1/27/2025
+
+Labs 7.2 doesnt work , i cannot ping from the Internet even when grading are coorect. I did all the lab of modules 7. Now there is only left the labs of module Now inthe Boson courseware. Il try to finish the correspnding chapters befre doing them. So i am almost done with the theory phase to concentrate in labs and exams. Enough for today i will watch a movie later.
