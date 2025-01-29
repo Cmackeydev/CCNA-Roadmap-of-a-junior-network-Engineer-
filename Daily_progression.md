@@ -177,3 +177,7 @@ I did one of the customized labs. 9 more to do.I hope to do them tomorrow.
 ## 1/27/2025
 
 Labs 7.2 doesnt work , i cannot ping from the Internet even when grading are coorect. I did all the lab of modules 7. Now there is only left the labs of module Now inthe Boson courseware. Il try to finish the correspnding chapters befre doing them. So i am almost done with the theory phase to concentrate in labs and exams. Enough for today i will watch a movie later.
+
+## 1/28/2025
+
+I am about in pages 1330. I woould like to read 300 or 400 hundred pages tomorrow. I don 't know. Im am in the LAN Architecture parts , the next part is about Automation and Programability . Im almot done with thetheorical part of the exams.
