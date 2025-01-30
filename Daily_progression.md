@@ -181,3 +181,13 @@ Labs 7.2 doesnt work , i cannot ping from the Internet even when grading are coo
 ## 1/28/2025
 
 I am about in pages 1330. I woould like to read 300 or 400 hundred pages tomorrow. I don 't know. Im am in the LAN Architecture parts , the next part is about Automation and Programability . Im almot done with thetheorical part of the exams.
+
+## 1/29/2025
+
+I did not do a lot of readings today , i was busy with something else. I am at pages 1380 about.
+
+## 1/30/2025
+
+For now i read through pages 1524. I hope to finish with the second edition tomorrow it finishes to pages 1700 about , the rest are annexes.
+I plan to do some more reading later. I am in the chapter which are about Network Automotaion which are the last chapters , very theorical and boring chapters.
+I want to spend the firt 3 weeks of february in doing labs , and exams . So that i could pass the exams before March , i hope.
