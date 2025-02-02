@@ -191,3 +191,18 @@ I did not do a lot of readings today , i was busy with something else. I am at p
 For now i read through pages 1524. I hope to finish with the second edition tomorrow it finishes to pages 1700 about , the rest are annexes.
 I plan to do some more reading later. I am in the chapter which are about Network Automotaion which are the last chapters , very theorical and boring chapters.
 I want to spend the firt 3 weeks of february in doing labs , and exams . So that i could pass the exams before March , i hope.
+
+## 1/31/2025
+
+Pages 1600.
+
+## 2/1/2025
+
+I finished on pages 1802 . I read some of the chapters about how to prepare. So i am almost done with the teory part. I will try to do the rest of the labs in the Boson CourseWare (about 2 ) later.
+Tomorrow i will try to watch the Jeremy'is it new videos about Automoation and Ai. So that i will fully focus on Labs / exercices an extra research.
+I think the real fun is about to begin. I am planning to pass the exam in the last week of February. So gotta focus.
+
+i finished the BosonCoureware labs , today. They were pretty straightforward , they were not really labs just to read. I have made a tour of The Boson labs they are about a 100.
+SO i will try to make at least 5 a day in the next days. Things are gonna be though.I will try to do one or two tonight. Ill go watch the Jeremy's it latest video now.
+
+I watch the videos ad did th first two labs of Boson , they were alo straight forwrd no configuration just Introduction theory.
