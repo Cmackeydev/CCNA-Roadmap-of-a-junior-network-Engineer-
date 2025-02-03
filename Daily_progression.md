@@ -206,3 +206,8 @@ i finished the BosonCoureware labs , today. They were pretty straightforward , t
 SO i will try to make at least 5 a day in the next days. Things are gonna be though.I will try to do one or two tonight. Ill go watch the Jeremy's it latest video now.
 
 I watch the videos ad did th first two labs of Boson , they were alo straight forwrd no configuration just Introduction theory.
+
+## 2/2/2025
+
+Today i did 4  Boson labs so far. they were pretty easy for me. I will try to do at least one more later. I will also try t configure the Anki Software on my Iphone so i can
+train myself on the Jeremy'it flash card.
