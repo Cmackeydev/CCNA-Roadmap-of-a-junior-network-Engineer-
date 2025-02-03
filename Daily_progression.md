@@ -211,3 +211,8 @@ I watch the videos ad did th first two labs of Boson , they were alo straight fo
 
 Today i did 4  Boson labs so far. they were pretty easy for me. I will try to do at least one more later. I will also try t configure the Anki Software on my Iphone so i can
 train myself on the Jeremy'it flash card.
+
+## 2/3/2025
+
+I did two labs until now for today. Some of the labs are time consuming so it takes me some time to do them. I will try to do 3 later. I started to try t configure the Ankiflashcards on My Iphone.
+I fund one apps i , i will try to add the deck later as i am unfamilliar with the process it can also take me some time. 
