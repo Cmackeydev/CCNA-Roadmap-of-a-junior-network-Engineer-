@@ -215,4 +215,8 @@ train myself on the Jeremy'it flash card.
 ## 2/3/2025
 
 I did two labs until now for today. Some of the labs are time consuming so it takes me some time to do them. I will try to do 3 later. I started to try t configure the Ankiflashcards on My Iphone.
-I fund one apps i , i will try to add the deck later as i am unfamilliar with the process it can also take me some time. 
+I fund one apps i , i will try to add the deck later as i am unfamilliar with the process it can also take me some time.
+
+## 2/4/2025
+
+I did not do anathing today , i was busy at work but hey at least i installed the anki deck to practice.
