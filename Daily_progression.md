@@ -220,3 +220,8 @@ I fund one apps i , i will try to add the deck later as i am unfamilliar with th
 ## 2/4/2025
 
 I did not do anathing today , i was busy at work but hey at least i installed the anki deck to practice.
+
+## 2/5/2025
+
+I did seven labs today and i finishesd with the Networks fundamentals labs on Boson. I'll try to perhap do one more lab later. But i will  concentrate on flahcards on Anki for the rest of the day we will see if i can do one more lab later.
+I did one lab in the Network Access modules. I did some flashcard but i am  kinda limmited for the moment , i have to get premium to be fully operational.
