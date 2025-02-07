@@ -225,3 +225,7 @@ I did not do anathing today , i was busy at work but hey at least i installed th
 
 I did seven labs today and i finishesd with the Networks fundamentals labs on Boson. I'll try to perhap do one more lab later. But i will  concentrate on flahcards on Anki for the rest of the day we will see if i can do one more lab later.
 I did one lab in the Network Access modules. I did some flashcard but i am  kinda limmited for the moment , i have to get premium to be fully operational.
+
+## 2/6/2025
+
+I did 4 labs today. I am advancing with the labs , i plan to pay the premium membership on Anki and i will also study the concepts of the CCNA subjects on Wikipedia for better understanding and better preparation.
