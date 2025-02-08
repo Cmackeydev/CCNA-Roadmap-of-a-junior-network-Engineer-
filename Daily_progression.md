@@ -229,3 +229,7 @@ I did one lab in the Network Access modules. I did some flashcard but i am  kind
 ## 2/6/2025
 
 I did 4 labs today. I am advancing with the labs , i plan to pay the premium membership on Anki and i will also study the concepts of the CCNA subjects on Wikipedia for better understanding and better preparation.
+
+## 2/7/2025 
+
+I did 6 labs today.
