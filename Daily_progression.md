@@ -160,7 +160,7 @@ I am on page 1104 now. I just finished with te chapter about QoS. Nexy chapter i
 ## 1/24/2025
 
 I finished the chapter on FHRP. im on page 1150 now. The actual version of CCNA does not focus on FHRP configuration. But i will still do a simple lab.
-I will use HSRP as the protocol on my simple lab. I ' ll try to quickly finish the lab so i can continue to read hope to get to pages 1200 today. 
+I will use HSRP as the protocol on my simple lab. I ' ll try to quickly finish the lab so i can continue to read hope to get to pages 1200 today.
 
 I did the lab a simple one as usual.
 
@@ -230,6 +230,18 @@ I did one lab in the Network Access modules. I did some flashcard but i am  kind
 
 I did 4 labs today. I am advancing with the labs , i plan to pay the premium membership on Anki and i will also study the concepts of the CCNA subjects on Wikipedia for better understanding and better preparation.
 
-## 2/7/2025 
+## 2/7/2025
 
 I did 6 labs today.
+
+## 2/8/2025
+
+I did one lab
+
+## 2/9/2025
+
+I am almost done with the second modules lab only the last lab is left ot be done.
+
+## 2/10/2025
+
+I did for labs today , i lost some pace , but i got other things on my mind right now.
