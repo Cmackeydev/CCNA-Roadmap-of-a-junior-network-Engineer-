@@ -245,3 +245,11 @@ I am almost done with the second modules lab only the last lab is left ot be don
 ## 2/10/2025
 
 I did for labs today , i lost some pace , but i got other things on my mind right now.
+
+## 2/11/2025
+
+I was lazy today.
+
+## 2/12/2025
+
+I did about seven Boson labs today and some flashcards. I have to buy the premium version of Anki Asap.
