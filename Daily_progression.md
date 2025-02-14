@@ -253,3 +253,7 @@ I was lazy today.
 ## 2/12/2025
 
 I did about seven Boson labs today and some flashcards. I have to buy the premium version of Anki Asap.
+
+## 2/13/2025
+
+I did 5 labs today and the 50 questions of the free Anki version.I am trying to upgrade the Anki.
