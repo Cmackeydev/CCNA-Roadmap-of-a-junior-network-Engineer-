@@ -257,3 +257,8 @@ I did about seven Boson labs today and some flashcards. I have to buy the premiu
 ## 2/13/2025
 
 I did 5 labs today and the 50 questions of the free Anki version.I am trying to upgrade the Anki.
+
+## 2/17/2025
+
+Almost 4 days since i didn't document my progress , not that i did not fo anything , fow now i am in the fourth module ans i already did 4 labs in it.
+I still did not upgrade the Anki but i had a lot of issues because i am in Haiti payng somethng in the apple store is quite challenging.
