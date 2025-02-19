@@ -262,3 +262,7 @@ I did 5 labs today and the 50 questions of the free Anki version.I am trying to 
 
 Almost 4 days since i didn't document my progress , not that i did not fo anything , fow now i am in the fourth module ans i already did 4 labs in it.
 I still did not upgrade the Anki but i had a lot of issues because i am in Haiti payng somethng in the apple store is quite challenging.
+
+## 2/18/2025
+
+ did a lot of labs today about 10. I got 4 labs left to finish with the 4th module. I bought the Anki pro toda , i am starting to feel prepared for the exams.
