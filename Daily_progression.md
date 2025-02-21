@@ -266,3 +266,8 @@ I still did not upgrade the Anki but i had a lot of issues because i am in Haiti
 ## 2/18/2025
 
  did a lot of labs today about 10. I got 4 labs left to finish with the 4th module. I bought the Anki pro toda , i am starting to feel prepared for the exams.
+
+## 2/20/2025
+
+I am in modules 5 now i already did two of the labs of the Module 5. I am starting to do a lot of th flashcards also.
+
