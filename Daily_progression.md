@@ -271,3 +271,8 @@ I still did not upgrade the Anki but i had a lot of issues because i am in Haiti
 
 I am in modules 5 now i already did two of the labs of the Module 5. I am starting to do a lot of th flashcards also.
 
+## 2/24/2025
+
+Today i finished with the Boson labs. At least. I will try to take a practice exam tomorrow. Now i will focus on theories.
+I will try to learn about all the protocols required and material for CCNA . Like to really understand them. ANd i will also try to do some really oe though customized labs.
+I will also do a lot af flashcards.
