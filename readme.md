@@ -52,3 +52,7 @@ For each parts i will write a markdown retrieving the important concepts to reta
 ## Lets start
 
 So buckle up your seatbelts , we are going for the ride. I will of course share with you my final impressions of this run and also my result with the exam.
+
+## Quick recap
+
+I passed the exam, hopefully on the first try. All the efforts have been rewarded. I intend to pursue the learning , specifically adding materials to this repo that could also help for the CCNP encor (which i am currently studying for).
